@@ -29,6 +29,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 -->
 Welcome, You are my ![Visitor Count](https://profile-counter.glitch.me/philasting/count.svg) visitor, Thank You!🎉🎉
-
+![philasting](https://count.getloli.com/get/philasting)
 
 
